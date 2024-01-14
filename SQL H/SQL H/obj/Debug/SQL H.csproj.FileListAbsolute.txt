@@ -1,0 +1,18 @@
+F:\Test\FirstNewProject\SQL H\SQL H\bin\Debug\SQL H.exe
+F:\Test\FirstNewProject\SQL H\SQL H\bin\Debug\SQL H.pdb
+F:\Test\FirstNewProject\SQL H\SQL H\obj\Debug\SQL H.csproj.AssemblyReference.cache
+F:\Test\FirstNewProject\SQL H\SQL H\obj\Debug\SQL_H.Form1.resources
+F:\Test\FirstNewProject\SQL H\SQL H\obj\Debug\SQL_H.Properties.Resources.resources
+F:\Test\FirstNewProject\SQL H\SQL H\obj\Debug\SQL H.csproj.GenerateResource.cache
+F:\Test\FirstNewProject\SQL H\SQL H\obj\Debug\SQL H.csproj.CoreCompileInputs.cache
+F:\Test\FirstNewProject\SQL H\SQL H\obj\Debug\SQL H.exe
+F:\Test\FirstNewProject\SQL H\SQL H\obj\Debug\SQL H.pdb
+D:\b\SQL H\SQL H\bin\Debug\SQL H.exe
+D:\b\SQL H\SQL H\bin\Debug\SQL H.pdb
+D:\b\SQL H\SQL H\obj\Debug\SQL H.csproj.AssemblyReference.cache
+D:\b\SQL H\SQL H\obj\Debug\SQL_H.Form1.resources
+D:\b\SQL H\SQL H\obj\Debug\SQL_H.Properties.Resources.resources
+D:\b\SQL H\SQL H\obj\Debug\SQL H.csproj.GenerateResource.cache
+D:\b\SQL H\SQL H\obj\Debug\SQL H.csproj.CoreCompileInputs.cache
+D:\b\SQL H\SQL H\obj\Debug\SQL H.exe
+D:\b\SQL H\SQL H\obj\Debug\SQL H.pdb
